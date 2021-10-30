@@ -14,7 +14,7 @@ using the following git Command to Clone the Application
 
     git clone https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
 
-![GitClone]
+![GitClone](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/gitclone.PNG)
 
 ## Packaging and running the application
 
