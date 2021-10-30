@@ -8,6 +8,14 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+## Downloading the Application
+
+using the following git Command to Clone the Application
+
+    git clone https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
+
+![GitClone]
+
 ## Packaging and running the application
 
 If you want to build an _??ber-jar_, execute the following command:
