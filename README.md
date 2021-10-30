@@ -18,7 +18,7 @@ using the following git Command to Clone the Application
 
 ## Packaging and running the application
 
-If you want to build an **_??ber-jar_**, execute the following command:
+If you want to build an [_??ber-jar_], execute the following command:
 
     ./gradlew build -Dquarkus.package.type=uber-jar
 
