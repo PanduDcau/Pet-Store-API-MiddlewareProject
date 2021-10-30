@@ -6,12 +6,12 @@ API testing entails testing application programming interfaces (APIs) directly a
 
 ## Downloading the Postman Application
 
-This Application is a versatile application for testing CRUD Operations of an API
+This Application is a versatile application for testing CRUD Operations of an API. Download Postman from Below Link
 
-    Download Postman:- https://www.postman.com/downloads/
+ https://www.postman.com/downloads/
 
 ## Postman Dashboard
-![PostMan Preview](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/gitclone.PNG)
+![PostMan Preview](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Postman.PNG)
 
 ## Packaging and running the application
 
