@@ -35,7 +35,11 @@ You can run your application in dev mode that enables live coding using:
 
     ./gradlew quarkusDev
 
-> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
+## Configuring the Application
+
+Use a Code editor tool to manipulating the Code segments. You can use any code editing tool.
+
+    ./gradlew quarkusDev
 
 ## Creating a native executable
 
