@@ -74,7 +74,7 @@ You can then execute your native executable with:
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
 
 ## Building the API using IntelliJ IDEA
-1. Setup the Targetted JDK in the IntelliJ IDEA (Clone the Git Repo from this Link)
+1. Setup the Targetted JDK in the [IntelliJ] IDEA (Clone the Git Repo from this Link)
 
     https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
 
@@ -82,7 +82,7 @@ Go to the IntelliJ IDEA and Setup the API from cloned git
 A) Setting Up the Gradle in IntelliJ
 ![IntelliJConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Gradle%20Config.PNG)
 
-B) Building the API after Selecting Gradle
+B) Building the API after Selecting [Gradle]
 
 2. Install Quarkus Plugin in IntelliJ
 ![QurakusConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/QuarkusConfig.PNG)
