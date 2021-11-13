@@ -107,7 +107,7 @@ After Installing the Plugin from the MarketPlace of IntelliJ , setup up the API.
 2. Connecting the PostgreSQL 
 (I have used PoestgreSQL Sql database to work with PetStore API)
 
-
+![PostgreSQL](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Postgre.PNG)
 
 ## Deploying Application
 
