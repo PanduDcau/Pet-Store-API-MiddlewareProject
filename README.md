@@ -156,6 +156,9 @@ Here are some CRUD operation Test cases with Database Connectivity.
 
 1) Pet Selection with Id
 
+
+    Run http://localhost:8080/pets/4
+
 ## Deploying Application
 
 To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
