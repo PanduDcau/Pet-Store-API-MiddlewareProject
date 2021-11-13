@@ -154,7 +154,7 @@ I have descriptively interpreted in Following [Java_Mini_Project](https://github
 
 Here are some CRUD operation Test cases with Database Connectivity.
 
-1) Pet Selection with Id
+#### 1) Pet Selection with Id
 
 
     Run http://localhost:8080/pets/4
@@ -167,7 +167,7 @@ b)Postman Result
 
  ![Postman](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetIdPost.PNG)
 
-2) New Pet Insertion
+#### 2) New Pet Insertion
 
 a) Quarkus Runtime
 
@@ -176,6 +176,18 @@ a) Quarkus Runtime
 b) Postman Result
 
  ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetPost.PNG)
+
+#### 3) Update Pet Type
+
+a) Quarkus Runtime
+
+ ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetInsert.PNG)
+
+b) Postman Result
+
+ ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetPost.PNG)
+
+
 ## Deploying Application
 
 To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
