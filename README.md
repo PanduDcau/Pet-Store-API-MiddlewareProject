@@ -87,6 +87,8 @@ B) Building the API after Selecting [Gradle]
 2. Install Quarkus Plugin in IntelliJ
 ![QurakusConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/QuarkusConfig.PNG)
 
+3. Build the Configuration from the Qurakus Tool.
+
 
 ## Deploying Application
 
