@@ -136,13 +136,23 @@ In that path, few Automated test cases included to make Sure the API running cor
  ### Automated Testing
 
  1. Pets Selection Test Case
+
  ![Pets](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTesting.PNG)
 
  2. Pets Type Selection Test Case
+
  ![PetsType](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTypeTest.PNG)
 
+ ### Manual Testing
 
+ Using Postman I have done Manual Testing for CRUD operations for 
 
+    Pet Entity
+    Pet Type Entity 
+
+I have descriptively interpreted in Following [Java_Mini_Project](https://github.com/graalvm/mandrel/releases/)Document.
+
+Here are some CRUD operation Test cases with Database Proof
 
 ## Deploying Application
 
