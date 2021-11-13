@@ -8,6 +8,14 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+## Prerequisite Installation.
+    1) Java Version 11.0 or above
+    2) IntelliJ IDEA Community version or Ultimate 
+    3) Docker Desktop
+    4) Docker Compose
+    git clone https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
+
+
 ## Downloading the Application
 
 using the following git Command to Clone the Application
@@ -79,6 +87,11 @@ If you want to learn more about building native executables, please consult http
     https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
 
 Go to the IntelliJ IDEA and Setup the API from cloned git
+
+Make sure you have install Java Version 11.0 or Above & configure the Java Home in configuration settings.
+
+    JAVA_HOME=C:\Program Files\Java\jdk-11.0.12
+
 A) Setting Up the Gradle in IntelliJ
 
 ![IntelliJConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Gradle%20Config.PNG)
