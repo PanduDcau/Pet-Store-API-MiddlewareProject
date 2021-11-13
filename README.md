@@ -73,6 +73,12 @@ You can then execute your native executable with:
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
 
+## Building the API using IntelliJ IDEA
+1. Setup the Targetted JDK in the IntelliJ IDEA (Clone the Git Repo from this Link)
+
+    https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
+
+Go to the IntelliJ IDEA and Setup the API from cloned git
 
 ## Deploying Application
 
