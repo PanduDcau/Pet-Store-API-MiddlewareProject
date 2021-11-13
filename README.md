@@ -150,9 +150,11 @@ In that path, few Automated test cases included to make Sure the API running cor
     Pet Entity
     Pet Type Entity 
 
-I have descriptively interpreted in Following [Java_Mini_Project](https://github.com/graalvm/mandrel/releases/)Document.
+I have descriptively interpreted in Following [Java_Mini_Project] (https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/tree/main/Pet%20Store%20Documentation%20(Testing)/Documentation) Document.
 
-Here are some CRUD operation Test cases with Database Proof
+Here are some CRUD operation Test cases with Database Connectivity.
+
+1) Pet Selection with Id
 
 ## Deploying Application
 
