@@ -167,15 +167,15 @@ b)Postman Result
 
  ![Postman](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetIdPost.PNG)
 
-2) New Pet Type Insertion
+2) New Pet Insertion
 
 a) Quarkus Runtime
 
- ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetIdQurkus.PNG)
+ ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetInsert.PNG)
 
 b) Postman Result
 
- ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetIdQurkus.PNG)
+ ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetPost.PNG)
 ## Deploying Application
 
 To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
