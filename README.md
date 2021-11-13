@@ -126,6 +126,23 @@ After Installing the Plugin from the MarketPlace of IntelliJ , setup up the API.
 
 ![Entities](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Enitities.PNG)
 
+## Testing API PetStore.
+
+From IntelliJ We can Do the Automated Testing . In my Pet-Store API , following directory file i have Creates Some test Cases.
+
+
+    petstore -> src -> test -> java 
+In that path, few Automated test cases included to make Sure the API running correctly.
+ ### Automated Testing
+
+ 1. Pets Selection Test Case
+ ![Pets](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTesting.PNG)
+
+ 2. Pets Type Selection Test Case
+ ![PetsType](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTypeTest.PNG)
+
+
+
 
 ## Deploying Application
 
