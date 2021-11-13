@@ -97,6 +97,7 @@ After Installing the Plugin from the MarketPlace of IntelliJ , setup up the API.
 ## Database Connection Implementation
 
 1. Configuring the Database Connection in Quarkus
+![DatabaseConnection](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Database%20Connection.PNG)
 
 ## Deploying Application
 
