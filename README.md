@@ -159,6 +159,13 @@ Here are some CRUD operation Test cases with Database Connectivity.
 
     Run http://localhost:8080/pets/4
 
+a) Quarkus Runtime
+ ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetIdQurkus.PNG)
+
+ b)Postman Result
+ ![Postman](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetIdPost.PNG)
+
+
 ## Deploying Application
 
 To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
