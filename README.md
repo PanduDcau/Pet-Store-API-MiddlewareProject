@@ -109,6 +109,11 @@ After Installing the Plugin from the MarketPlace of IntelliJ , setup up the API.
 
 ![PostgreSQL](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Postgre.PNG)
 
+3. Implementing Entities in Pet Store API to Store data in PostgreSQL
+
+![Entities](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Postgre.PNG)
+
+
 ## Deploying Application
 
 To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
