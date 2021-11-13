@@ -80,24 +80,34 @@ If you want to learn more about building native executables, please consult http
 
 Go to the IntelliJ IDEA and Setup the API from cloned git
 A) Setting Up the Gradle in IntelliJ
+
 ![IntelliJConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Gradle%20Config.PNG)
 
 B) Building the API after Selecting [Gradle]
 
 2. Install Quarkus Plugin in IntelliJ
+
 ![QurakusConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/QuarkusConfig.PNG)
 
 3. Build the Configuration from the Qurakus Tool.
 After Installing the Plugin from the MarketPlace of IntelliJ , setup up the API.
+
 ![QurakusTool](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Qurkus%20Tool.PNG)
 
 4. Run the API after all the Configurations are setted up.
+
 ![QurakusTool](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/QurkusRun.PNG)
 
 ## Database Connection Implementation
 
 1. Configuring the Database Connection in Quarkus
+
 ![DatabaseConnection](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Database%20Connection.PNG)
+
+2. Connecting the PostgreSQL 
+(I have used PoestgreSQL Sql database to work with PetStore API)
+
+
 
 ## Deploying Application
 
