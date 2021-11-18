@@ -89,8 +89,9 @@ If you want to learn more about building native executables, please consult http
 
 Go to the IntelliJ IDEA and Setup the API from cloned git.
 
+Then Select [petstore](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/tree/main/petstore) folder for Build Pet-Store API.
 
-    Then Select [petstore](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/tree/main/petstore) folder for Build Pet-Store API.
+ 
 
 Make sure you have install Java Version 11.0 or Above & configure the Java Home in configuration settings.
 
