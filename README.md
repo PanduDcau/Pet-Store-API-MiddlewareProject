@@ -83,7 +83,7 @@ You can then execute your native executable with:
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
 
 ## Building the API using IntelliJ IDEA
-1. Setup the Targetted JDK in the [IntelliJ] IDEA (Clone the Git Repo from this Link)
+#### 1. Setup the Targetted JDK in the [IntelliJ] IDEA (Clone the Git Repo from this Link)
 
     https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
 
@@ -99,35 +99,38 @@ Make sure you have install Java Version 11.0 or Above & configure the Java Home 
 
 A) Setting Up the Gradle in IntelliJ
 
+
+    Go to Settings -> Build -> Select Gradle
+
 ![IntelliJConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Gradle%20Config.PNG)
 
 B) Building the API after Selecting [Gradle]
 
-2. Install Quarkus Plugin in IntelliJ
+#### 2. Install Quarkus Plugin in IntelliJ
 
 ![QurakusConfig](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/QuarkusConfig.PNG)
 
-3. Build the Configuration from the Qurakus Tool.
+#### 3. Build the Configuration from the Qurakus Tool.
 After Installing the Plugin from the MarketPlace of IntelliJ , setup up the API.
 
 ![QurakusTool](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Qurkus%20Tool.PNG)
 
-4. Run the API after all the Configurations are setted up.
+#### 4. Run the API after all the Configurations are setted up.
 
 ![QurakusTool](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/QurkusRun.PNG)
 
 ## Database Connection Implementation
 
-1. Configuring the Database Connection in Quarkus
+#### 1. Configuring the Database Connection in Quarkus
 
 ![DatabaseConnection](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Database%20Connection.PNG)
 
-2. Connecting the PostgreSQL 
+#### 2. Connecting the PostgreSQL 
 (I have used PoestgreSQL Sql database to work with PetStore API)
 
 ![PostgreSQL](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Postgre.PNG)
 
-3. Implementing Entities in Pet Store API to Store data in PostgreSQL
+#### 3. Implementing Entities in Pet Store API to Store data in PostgreSQL
 
 ![Entities](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Configuration/Enitities.PNG)
 
@@ -140,11 +143,11 @@ From IntelliJ We can Do the Automated Testing . In my Pet-Store API , following 
 In that path, few Automated test cases included to make Sure the API running correctly.
  ### Automated Testing
 
- 1. Pets Selection Test Case
+ ##### 1. Pets Selection Test Case
 
  ![Pets](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTesting.PNG)
 
- 2. Pets Type Selection Test Case
+ ##### 2. Pets Type Selection Test Case
 
  ![PetsType](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTypeTest.PNG)
 
