@@ -202,6 +202,19 @@ a) Quarkus Runtime
 
   ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetName.PNG)
 
+
+#### 5) Deleting Pet by Id
+
+    Run http://localhost:8080/pets/5
+
+a) Quarkus Runtime
+
+ ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetNameQua.PNG)
+
+ b) Postman Result 
+
+  ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetName.PNG)
+
 ## Creating a native executable
 
 Mind having GRAALVM_HOME set to your Mandrel or GraalVM installation.
