@@ -188,7 +188,11 @@ b) Postman Result
 
  ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetPost.PNG)
 
-#### 3) Searching Pet by PetName
+#### 4) Searching Pet by PetName
+
+
+
+    Run http://localhost:8080/pets/name/Dusty
 
 a) Quarkus Runtime
 
@@ -201,4 +205,6 @@ a) Quarkus Runtime
 
 ## Deploying Application
 
-To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
+To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/tree/main/petstore/deploy)
+
+
