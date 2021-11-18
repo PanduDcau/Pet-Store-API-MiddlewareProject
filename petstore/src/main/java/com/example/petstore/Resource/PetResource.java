@@ -96,9 +96,16 @@ public class PetResource {
 	}
 
 	@GET
-	@Path("{petId}")
+	@Path("/id/{petId}")
 	public Response findByPetId(@PathParam("petId") int id){
 		Pet type= repo.findByPetId(id);
+		return Response.ok(type).build();
+	}
+
+	@GET
+	@Path("/name/{petName}")
+	public Response findByPetId(@PathParam("petName") String name){
+		List<Pet> type= repo.findByPetName(name);
 		return Response.ok(type).build();
 	}
 

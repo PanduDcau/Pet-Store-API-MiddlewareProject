@@ -10,19 +10,19 @@ import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.allOf;
 
 @QuarkusTest
-public class PetResourceTest {
+public class PetTest {
 
-	@Test
-    public void testPetEndpoint() {
+    @Test
+    public void PetsEndpoint() {
         given()
-          .when().get("/pettypes")
-          .then()
-             .statusCode(200);
+                .when().get("/pets")
+                .then()
+                .statusCode(200);
 //        .body(hasItem(
 // 		            allOf(
 //    		                hasEntry("idPetType", "2"),
-//    		                hasEntry("name", "Dog"),
-//    		                hasEntry("status", "1")
+//    		                hasEntry("petName", "Simba"),
+//    		                hasEntry("petAge", "4")
 //
 //    		            )
 //    		      )
