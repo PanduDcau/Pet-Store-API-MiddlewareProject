@@ -14,6 +14,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
     3) Docker Desktop
     4) Docker Compose
     5) SQL Database (I have Used PostgreSQL)
+    6) Postman (For API Testing)
     git clone https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
 
 
@@ -162,6 +163,9 @@ I have descriptively interpreted in Following [Java_Mini_Project](https://github
 
 Here are some CRUD operation Test cases with Database Connectivity.
 
+    I have Used Postman for Testing the Pet-Store API
+
+For Download Postman Application [Click Here](https://www.postman.com/downloads/)
 #### 1) Pet Selection with Id
 
 
