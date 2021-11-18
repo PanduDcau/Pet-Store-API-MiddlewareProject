@@ -209,11 +209,14 @@ a) Quarkus Runtime
 
 a) Quarkus Runtime
 
- ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetNameQua.PNG)
+ ![Quarkus Delete](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Deletion/DelQuark.PNG)
 
  b) Postman Result 
 
-  ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetName.PNG)
+  ![Postman Del](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Deletion/DeletePet.PNG)
+
+ ![Database Preview](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Deletion/DeleteData.PNG)
+
 
 ## Creating a native executable
 
