@@ -10,7 +10,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Prerequisite Installation.
     1) Java Version 11.0 or above
-    2) IntelliJ IDEA Community version or Ultimate 
+    2) IntelliJ IDEA Community version or Ultimate Edition
     3) Docker Desktop
     4) Docker Compose
     5) SQL Database (I have Used PostgreSQL)
