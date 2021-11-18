@@ -229,6 +229,17 @@ If you want to learn more about building native executables, please consult http
 
 ## Deploying Application
 
-To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/tree/main/petstore/deploy)
+Deploying the demo app on a docker-compose please visit. [./deploy](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/tree/main/petstore/deploy)
+
+
+    docker-compose.yaml file 
+Contains all the relevent paths for the dockerizing process of "Pet Store API"
+### Starting local Grafana and Prometheus
+1. Run `docker-compose up -d`
+2. Open `http://localhost:3000/` and use `admin:admin` credentials
+3. Navigate into `http://localhost:3000/dashboards`
+4. Open `Quarkus Microprofile Metrics` dashboard
+
+
 
 
