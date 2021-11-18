@@ -13,6 +13,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
     2) IntelliJ IDEA Community version or Ultimate 
     3) Docker Desktop
     4) Docker Compose
+    5) SQL Database (I have Used PostgreSQL)
     git clone https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject.git
 
 
@@ -186,6 +187,16 @@ a) Quarkus Runtime
 b) Postman Result
 
  ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetPost.PNG)
+
+#### 3) Searching Pet by PetName
+
+a) Quarkus Runtime
+
+ ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetNameQua.PNG)
+
+ b) Postman Result 
+
+  ![Quarkus Name](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Search/PetName.PNG)
 
 
 ## Deploying Application
