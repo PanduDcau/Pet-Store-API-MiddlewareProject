@@ -1,33 +1,8 @@
 # PetStore Application
 
-## Introduction
+Full Application Building Process & Deployement described in Root level in the Repo.  [./ReadMe.md](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject)
 
-MicroProfile Starter has generated this MicroProfile application for you.
-
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
-
-## Packaging and running the application
-
-If you want to build an _??ber-jar_, execute the following command:
-
-    ./gradlew build -Dquarkus.package.type=uber-jar
-
-To run the application:
-
-    java -jar build/petstore-runner.jar
-
-The application can be also packaged using simple:
-
-    ./gradlew build
-
-It produces the `quarkus-run.jar` file in the `build/quarkus-app/` directory.
-Be aware that it is not an _??ber-jar_ as the dependencies are copied into the `build/quarkus-app/lib/` directory.
-
-To launch the test page, open your browser at the following URL
-
-    http://localhost:8080/index.html
+These are Some additional instructions for the API Configuration and additional Features for Microprofile.io
 
 ## Running the application in dev mode
 
@@ -60,14 +35,6 @@ You can then execute your native executable with:
     ./build/petstore-runner
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
-
-## Specification examples
-
-By default, there is always the creation of a JAX-RS application class to define the path on which the JAX-RS endpoints are available.
-
-Also, a simple Hello world endpoint is created, have a look at the class **HelloController**.
-
-More information on MicroProfile can be found [here](https://microprofile.io/)
 
 ### Config
 
@@ -115,7 +82,3 @@ Allow the participation in distributed tracing of your requests through various 
 
 To show this capability download [Jaeger](https://www.jaegertracing.io/download/#binaries) and run ```./jaeger-all-in-one```.
 Open [http://localhost:16686/](http://localhost:16686/) to see the traces. Mind that you have to access your demo app endpoint for any traces to show on Jaeger UI.
-
-## Deploying Application
-
-To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
