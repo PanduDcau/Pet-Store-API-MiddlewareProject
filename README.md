@@ -193,11 +193,11 @@ b) Postman Result
 
 a) Quarkus Runtime
 
- ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetInsert.PNG)
+ ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Update/Update%20Pet.PNG)
 
 b) Postman Result
 
- ![Quarkus](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Insertion/PetPost.PNG)
+ ![Update Quark](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Update/PetType.PNG)
 
 #### 4) Searching Pet by PetName
 
