@@ -144,6 +144,10 @@ From IntelliJ We can Do the Automated Testing . In my Pet-Store API , following 
 In that path, few Automated test cases included to make Sure the API running correctly.
  ### Automated Testing
 
+ This is the Autoamted Test Suite that I have Prepared for Alpha Testing.
+
+ Here is the Link to the Test Suite directory for Test Case. []
+
  ##### 1. Pets Selection Test Case
 
  ![Pets](https://github.com/Pandula1234/Pet-Store-API-MiddlewareProject/blob/main/Pet%20Store%20Documentation%20(Testing)/Automated%20Testing/PetTesting.PNG)
